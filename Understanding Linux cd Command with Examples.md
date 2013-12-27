@@ -81,4 +81,6 @@ BASH 创建的任何进程，它会由一个 BASH 的子 shell（当前 BASH 进
 ![](http://linoxide.com/wp-content/uploads/2013/12/18.cd_star_wild_card.png)
 
 
+
+----
 **编译自**：[http://linoxide.com/linux-command/linux-cd-command-examples/](http://linoxide.com/linux-command/linux-cd-command-examples/)
