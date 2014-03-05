@@ -308,3 +308,6 @@ same way: they receive `HTTP` requests, dispatch code that generates HTML, and
 creates an `HTTP` response with that content. In fact, *all* major server-side
 frameworks work in this way (excluding JavaScript frameworks). Hopefully, you're
 now equipped to choose between frameworks as you understand their purpose.
+
+
+http://www.jeffknupp.com/blog/2014/03/03/what-is-a-web-framework/
